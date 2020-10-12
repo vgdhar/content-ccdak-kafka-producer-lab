@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry kind="lib" path="gradle/wrapper/gradle-wrapper.jar"/>
+	<classpathentry kind="lib" path="C:/Users/gveeravalli/.gradle/caches/modules-2/files-2.1/org.apache.kafka/kafka-clients/2.2.1/3a9480801401f5eafdfeefad6d65493a7c5a7b6d/kafka-clients-2.2.1.jar" sourcepath="C:/Users/gveeravalli/.gradle/caches/modules-2/files-2.1/org.apache.kafka/kafka-clients/2.2.1/59902a774ef54815b49f2ba5f2e21a7bb44f1b80/kafka-clients-2.2.1-sources.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
